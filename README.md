@@ -21,3 +21,13 @@ Design System é uma conversão criada dentro de uma empresa que segue uma linha
   - [ ] TextInput
   - [ ] Button
   - [ ] Checkbox
+
+
+
+
+Padrão dos 8 pixels:
+Sempre quando for trabalha com interfaces é usar um padrão (para espaçamentos, padding...): 
+
+- Acima dos 16px é bom usar multiplos de 8
+
+- Abaixo dos 16px é bom usar multiplos de 4
