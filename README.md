@@ -4,6 +4,11 @@ Projeto: Design System
 
 Design System é uma conversão criada dentro de uma empresa que segue uma linha visual semelhante para manter um padrão.
 
+https://www.figma.com/file/0kxs97h6aHrmbWMt0mtBsI/Iginite-Lab-3?node-id=0%3A1
+
+figma:
+plugin: ColorStyleguide, Phosphor Icons
+
 - [ ] Uso do Figma
 - [ ]
 - [ ]
