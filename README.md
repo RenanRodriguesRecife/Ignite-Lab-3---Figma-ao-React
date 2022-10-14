@@ -9,6 +9,8 @@ https://www.figma.com/file/0kxs97h6aHrmbWMt0mtBsI/Iginite-Lab-3?node-id=0%3A1
 figma:
 plugin: ColorStyleguide, Phosphor Icons
 
+site: world vector logo
+
 - [ ] Uso do Figma
 - [ ]
 - [ ]
