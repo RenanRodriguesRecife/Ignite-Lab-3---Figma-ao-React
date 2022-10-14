@@ -12,8 +12,6 @@ plugin: ColorStyleguide, Phosphor Icons
 site: world vector logo
 
 - [ ] Uso do Figma
-- [ ]
-- [ ]
 
 - [ ] Criar formulário de login
   - [ ] E-mail
